@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-p2-api",
+  "version": "1.0.0",
+  "description": "Simple backend API for Full Stack P2 project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "author": "DecodeLabs Internship",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
